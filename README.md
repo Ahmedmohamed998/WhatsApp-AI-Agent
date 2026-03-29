@@ -1,4 +1,4 @@
-# WhatsApp AI Agent 🤿
+# WhatsApp AI Agent
 
 > High-converting, multi-lingual WhatsApp AI sales agent built for the Mermates Diving Team.
 
